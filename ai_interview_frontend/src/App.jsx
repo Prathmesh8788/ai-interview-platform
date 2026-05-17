@@ -1,4 +1,4 @@
-import InterviewPage from "./pages/interviewpage";
+import InterviewPage from "./pages/InterviewPage";
 
 function App() {
   return (
